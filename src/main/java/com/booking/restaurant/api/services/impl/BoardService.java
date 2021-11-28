@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.booking.restaurant.api.services;
-
+package com.booking.restaurant.api.services.impl;
 
 import org.springframework.stereotype.Service;
 
-
 @Service
-public class ReservationService {
-  
+public class BoardService {
+
+
+    
 }
